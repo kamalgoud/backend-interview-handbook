@@ -478,3 +478,18 @@ The JVM uses two Survivor Spaces (S0 and S1) to efficiently copy surviving objec
 
 At any point, one Survivor Space acts as the source and the other acts as the destination. After each Minor GC, their roles are swapped.
 
+
+
+
+## Top JVM Interview Questions
+
+1. Difference between JVM, JRE and JDK?
+2. Difference between Heap and Stack?
+3. What is Metaspace?
+4. What is Class Loader?
+5. Explain Parent Delegation Model.
+6. What happens when a Java program runs?
+7. What is JIT Compiler?
+8. Why is Java platform independent?
+9. What is Reachability Analysis?
+10. Difference between Minor GC, Major GC and Full GC?
